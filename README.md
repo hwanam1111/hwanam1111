@@ -8,9 +8,9 @@
 - Developed e-running education contents with canvas and collaborated with various educational companies such as 'Poly english academy' and 'Visang education'.
 
 ### TRAVEL C2B Crop. (R&D Team Leader) : 2018.11 ~
-- Global Travel Platforms and K-POP Platforms
-- Responsible for the project setup and overall design and development of the TRAVEL C2B platform
-- Responsible for the project setup and overall design and development of the CreateJump platform
+- Global Travel Platforms and K-POP Platforms.
+- Responsible for the project setup and overall design and development of the TRAVEL C2B platform.
+- Responsible for the project setup and overall design and development of the CreateJump platform.
 - Build infrastructure to improve the development environment.
 
 ## Skills
