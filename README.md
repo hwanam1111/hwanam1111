@@ -23,4 +23,4 @@
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white) ![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)  ![](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white)  ![](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=AmazonS3&logoColor=white) ![](https://img.shields.io/badge/AWS_RDS-569A31?style=flat-square&logo=AmazonRDS&logoColor=white)  ![](https://img.shields.io/badge/AWS_CodeDeploy-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white) ![](https://img.shields.io/badge/AWS_CloudFront-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white) ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) ![](https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white) ![](https://img.shields.io/badge/Github_Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white)
 
 ### Links
-Blog : [https://leejun-dev.tistory.com)
+Blog : https://leejun-dev.tistory.com
