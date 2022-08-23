@@ -10,9 +10,9 @@
 ### TRAVEL C2B Crop. (R&D Team Leader) : 2018.11 ~
 - Global Travel Platforms and K-POP Platforms.
 - Responsible for the project setup and overall design and development of the TRAVEL C2B platform.
-(Link : https://travelc2b.com)
+ - (Link : https://travelc2b.com)
 - Responsible for the project setup and overall design and development of the CreateJump platform.
-(Link : https://www.createjump.com)
+ - (Link : https://www.createjump.com)
 - Build infrastructure to improve the development environment.
 
 ## Skills
