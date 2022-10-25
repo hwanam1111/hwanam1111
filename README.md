@@ -7,7 +7,7 @@
 ### BLUEGA INC. (Front-end Developer) : 2017.04 ~ 2018.05
 - Developed e-running education contents with canvas and collaborated with various educational companies such as 'Poly english academy' and 'Visang education'.
 
-### TRAVEL C2B Crop. (R&D Team Leader) : 2018.11 ~
+### TRAVEL C2B Crop. (R&D Team Leader) : 2019.11 ~
 - Global Travel Platforms and K-POP Platforms.
 - Responsible for the project setup and overall design and development of the TRAVEL C2B platform.
   - (Link : https://travelc2b.com)
